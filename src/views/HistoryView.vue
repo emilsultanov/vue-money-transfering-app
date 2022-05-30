@@ -25,7 +25,7 @@
 </template>
 <script>
 export default {
-  name: "History",
+  name: "app-history",
   methods: {
     getFullYear(date) {
       let day = date.getUTCDate(),
